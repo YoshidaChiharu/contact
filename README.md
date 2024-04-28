@@ -6,7 +6,8 @@
 2. [使用技術一覧](#使用技術一覧)
 3. [環境](#環境)
 4. [環境構築手順](#環境構築手順)
-5. [動作確認](#動作確認)
+5. [ER図](#ER図)
+6. [URL](#URL)
 
 ## プロジェクト概要
 
@@ -86,7 +87,7 @@ $ php artisan migrate
 
 ## URL
 
-開発環境：[http://localhost:8080/](http://localhost:8080/)
-phpMyAdmin：[http://localhost/](http://localhost/)
+- 開発環境：[http://localhost:8080/](http://localhost:8080/)
+- phpMyAdmin：[http://localhost/](http://localhost/)
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
