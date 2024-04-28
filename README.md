@@ -83,7 +83,7 @@ $ php artisan migrate
 
 ## ER図
 
-
+![er-contact](https://github.com/YoshidaChiharu/contact/assets/158742849/d0d4d523-05d6-4aad-b8a2-a5d2058efe35)
 
 ## URL
 
